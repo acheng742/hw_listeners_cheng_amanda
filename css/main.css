@@ -1,0 +1,12 @@
+body {
+	background-color: teal;
+}
+
+header, section {
+	color: white;
+	padding: 0px 150px 0px 150px;
+}
+
+.yellow {
+	color: yellow;
+}
