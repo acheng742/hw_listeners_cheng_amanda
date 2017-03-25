@@ -6,7 +6,7 @@
 # Resources
 [Link to W3 schools source](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
-I used this to understand the event listener for resizing of the browser window.
+I used these links to help me understand the event listener for resizing of the browser window.
 
 # Deductions
 
