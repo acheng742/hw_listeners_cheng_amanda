@@ -11,3 +11,7 @@ I used this link to help me understand the event listener for resizing of the br
 # Deductions
 
 I reviewed the list of deductions for this project and in the syllabus. 
+
+# Comments
+
+No comments
